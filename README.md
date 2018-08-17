@@ -1,6 +1,6 @@
-# duo-ui
+# vuetu-ui
 
-> 一个基于Vue的UI组件库基于Vue的UI库
+>Vue Easy To Use UI 一个基于Vue的UI组件库
 
 ## Build Setup
 
